@@ -3,8 +3,7 @@ title: HUAWEI Seeds For The Future
 publishDate: 2020-03-04 00:00:00
 img: /assets/presentation.jpg
 img_alt: Walter Presenting
-description: |
-  Walter Presenting in Seeds For The Future
+description: Project Pitching in Seeds For The Future, project presentation
 tags:
   
   - Speech
