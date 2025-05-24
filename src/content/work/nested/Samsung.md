@@ -2,7 +2,7 @@
 title: SAMSUNG INNOVATION CAMPUS FINAL PROJECT
 publishDate: 2020-03-02 00:00:00
 img: /assets/newsImage.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: SAMSUNG INNOVATION CAMPUS
 description: |
   We designed a web application that uses machine learning and AI in order to casify and explain newsletters with a screenshot, url or a simple text 
 tags:
@@ -45,3 +45,4 @@ Thanks to Samsung and the partners for this opportunity. I feel more prepared fo
 - <a href="https://github.com/repositoriosHackaton/SIC25es-Error404-SQLovers-?tab=readme-ov-file"> Github Repository </a>
 - <a href="https://news.samsung.com/latin/samsung-innovation-campus-culmina-con-exito-programa-de-phyton-e-inteligencia-artificial-en-el-salvador"> SAMSUNG Newsroom Latin America</a>
 
+- <a href="https://samsung-innovation-campus-final-project.vercel.app/"> Project app</a>
