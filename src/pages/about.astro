@@ -1,11 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-
+import Grid from '../components/Grid.astro';
 import ContactCTA from '../components/ContactCTA.astro';
 import Hero from '../components/Hero.astro';
 ---
 
-<BaseLayout title="About | Jeanine White" description="About Jeanine White Lorem Ipsum">
+<BaseLayout title="About | Walter Melendez" description="About Walter Melendez">
 	<div class="stack gap-20">
 		<main class="wrapper about">
 			<Hero
@@ -13,9 +13,9 @@ import Hero from '../components/Hero.astro';
 				tagline="Thanks for stopping by. Read below to learn more about myself and my background."
 			>
 				<img
-					width="1553"
-					height="873"
-					src="/assets/at-work.jpg"
+					width="800"
+					height="600"
+					src="/assets/retrato.jpeg"
 					alt="Jeanine White at work with a colleague"
 				/>
 			</Hero>
@@ -24,35 +24,61 @@ import Hero from '../components/Hero.astro';
 				<h2 class="section-title">Background</h2>
 				<div class="content">
 					<p>
-						Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy.
-						Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum
-						id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla
-						pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+						I am a passionate coder and dedicated student, 
+						always eager to learn and ready to contribute my skills wherever needed. 
+						With a strong entrepreneurial spirit, I actively engage in working with startups and established enterprises alike, 
+						bringing a focus on productivity and efficiency to every project. Whether collaborating in a team or leading initiatives, 
+						I strive to deliver innovative solutions and drive meaningful results through technology and smart work.
+
 					</p>
+					<br>
 					<p>
-						Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis
-						natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl
-						condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel
-						quam elementum pulvinar etiam non.
+						I have a deep curiosity and passion for exploring all kinds of technology. 
+						Whether it’s software development, artificial intelligence, cloud computing, 
+						or emerging tech trends, I’m always eager to expand my knowledge and stay up-to-date with the latest innovations.
+						 This broad interest fuels my continuous learning and helps me adapt quickly to new challenges and opportunities in the tech world.
 					</p>
+					<br>
 					<p>
-						Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet
-						eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra.
-						Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl
-						pretium fusce.
+						I see myself in the near future leading and developing cutting-edge tech projects,
+						 driving innovation, and making a real impact in the technology world. With a strong foundation in coding, 
+						 a passion for continuous learning, and experience in both startups and enterprises, I’m preparing to take on roles where I can lead teams,
+						solve real-world problems, and help shape the future through technology.
 					</p>
+					
+			
 				</div>
 			</section>
 			<section>
 				<h2 class="section-title">Education</h2>
-				<div class="content">
-					<p>Corporis voluptates tenetur laudantium.</p>
+				<div class="content ">
+					<p>some of my last courses
+						if you would like to know more about me click <a href="https://www.linkedin.com/in/walter-cortez-25536a326/">here to contact me</a>
+
+					</p>
+					<img src="/public/assets/samsung.png" 
+					width="500"
+					height="200"
+					 alt=""
+					 id="item1">
+					<img src="/public/assets/sids.jpg" class="card" alt=""
+					width="auto"
+					id="item2">
+					<img src="/public/assets/english.png" class="card" alt=""
+					width="500"
+					height="600">
 				</div>
 			</section>
 			<section>
 				<h2 class="section-title">Skills</h2>
 				<div class="content">
-					<p>officia unde omnis</p>
+					<p>Technical Skills:
+						Python Programming,Web Development (HTML, CSS, React, Next.js, Astro),AI & Machine Learning (Beginner to Intermediate level),Cloud Computing Concepts,Responsive Design.</p>
+						<br>
+					<p>
+						Soft & Professional Skills: Strategic Thinking, Leadership & Team Management, Entrepreneurial Mindset, Problem-Solving,Communication & Collaboration, Creativity & Innovation, Public Speaking & Presentations,Cross-Cultural Teamwork.
+
+					</p>
 				</div>
 			</section>
 		</main>
@@ -62,6 +88,7 @@ import Hero from '../components/Hero.astro';
 </BaseLayout>
 
 <style>
+	
 	.about {
 		display: flex;
 		flex-direction: column;

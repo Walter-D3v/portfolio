@@ -23,7 +23,7 @@ Throught this program there was a competition developt among the National studen
 
 Anti Fake-News AI is a platform Awarded in second place because of its impact letting you know if a newsletter is providing fake or real information using machine learning, Artificial Inteligence, cloud computing and Big Data to proccess hundreds if not thousands of datasets in order to validate the information, you are able to know why is the new Fake or Real using a simple image, a text, or an url 
 
-### Acomplished Goals 
+## Acomplished Goals 
 
 We learned how to use AI, ML, and more python libraries to develop project with the capability of changing the way we read, we communicate and we live.
 
@@ -31,6 +31,13 @@ It was a Honour for me to present the sales pitch, help in the front-end, desing
 
 We were capable of working as a professional developing team, not just for a project but for an idea, for a goal , an objective and that brought an award to this project and was a huge step in my professional formation 
 
+### Personal Experience 
+
+Being part of the Samsung Innovation Campus was an amazing experience that truly pushed me to grow. The intensive training in Python and Artificial Intelligence gave me skills that I didn’t think I could learn so fast. The instructors were always supportive, and the projects we worked on helped me understand how to solve real problems using technology.
+
+I also really appreciated how the program focused on teamwork and creativity — working alongside students from different parts of El Salvador made the experience even richer. Presenting my final project at the end was challenging but rewarding; it showed me how far I’ve come.
+
+Thanks to Samsung and the partners for this opportunity. I feel more prepared for the future and excited to keep learning and innovating.
 
 
 #### Related to the project

@@ -42,10 +42,19 @@ const { href } = Astro.props;
 		mix-blend-mode: overlay;
 	}
 
+	a:hover{
+		transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(4, 37, 37, 0.5);
+  transition: all 0.5s ease;
+	}
+
 	a:focus::after,
 	a:hover::after {
 		background-color: hsla(var(--gray-999-basis), 0.3);
+		
+		
 	}
+	
 
 	@media (min-width: 50em) {
 		a {

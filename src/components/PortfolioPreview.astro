@@ -29,7 +29,7 @@ const { data, id } = Astro.props.project;
 		border: 1px solid var(--gray-800);
 		border-radius: 0.75rem;
 		overflow: hidden;
-		box-shadow: var(--shadow-sm);
+		box-shadow: var(--shadow-lg);
 		text-decoration: none;
 		font-family: var(--font-brand);
 		font-size: var(--text-lg);
@@ -38,7 +38,12 @@ const { data, id } = Astro.props.project;
 	}
 
 	.card:hover {
-		box-shadow: var(--shadow-md);
+		box-shadow: var(--shadow-lg);
+		transition: ease-in;
+		border-color: black ;
+		transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(4, 37, 37, 0.5);
+  transition: all 0.5s ease;
 	}
 
 	.title {

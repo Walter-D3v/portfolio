@@ -2,14 +2,14 @@
 title: HUAWEI Seeds For The Future 
 publishDate: 2020-03-04 00:00:00
 img: /assets/presentation.jpg
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img_alt: Walter Presenting
 description: |
-  We dessingned, developed, and pitch a creative and innovative solution featured by HUAWEI thruought a week jornual focused on mentorships, capacitations and talks about new technologies as Artificial Inteligence, IoT, 5G Networks and more technologies
+  Walter Presenting in Seeds For The Future
 tags:
   
-  - Sales Pitch
+  - Speech
   
-  - Software Development
+  - Mentorships
   
 ---
 ### Program Overview
@@ -19,10 +19,34 @@ Huawei's flagship global corporate social responsibility (CSR) initiative, launc
 ### El Salvador
 In August 2024, El Salvador hosted the Seeds for the Future summit, bringing together over 130 outstanding students from across Latin America and the Caribbean. The event featured training in cutting-edge technologies, cultural exchange activities, and the Tech4Good competition, where teams developed innovative solutions for local challenges.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+### Learnings 
+Huawei’s Seeds for the Future combines technical learning, cultural exchange, and leadership development. Here are the main areas of learning:
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+I got exposed to cutting-edge tech that drives digital transformation:
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+5G & Wireless Networks – Understand the architecture, application, and potential of next-gen networks.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Artificial Intelligence (AI) – Learn the basics of AI, use cases, and Huawei’s implementation strategies.
+
+Cloud Computing – Dive into cloud architecture and how it powers modern businesses.
+
+Internet of Things (IoT) – Discover how devices are connected and how they collect, process, and transmit data.
+
+Cybersecurity – Introduction to security practices in telecom and enterprise environments.
+
+Green Tech & Sustainability – Learn how technology can reduce environmental impact.
+
+🧑‍🏫 Sessions are taught by Huawei experts and sometimes by guest speakers from academia and the tech industry.
+
+### My Experience
+Participating in Seeds for the Future was one of the most eye-opening experiences of my academic journey. Over just a few days, I gained deep insights into technologies like 5G, AI, and cloud computing, all taught by professionals directly involved in building them.
+
+The highlight for me was the Tech4Good challenge — it pushed my team and me to think beyond theory and come up with real solutions for social problems. We had mentors guiding us at every step, and the exposure to different cultures made it even more enriching.
+
+What I appreciated the most was how the program combined technical skills with leadership and innovation training. It wasn’t just about learning—it was about creating, collaborating, and making an impact.
+
+If you're curious about tech and want to connect with like-minded students around the world, I 100% recommend applying. It changed how I see my future in technology.
+
+## Related Links
+- <a href="https://www.huawei.com/mx/news/mx/2024/cumbre-america-latina-y-el-caribe-semillas-para-el-futuro-2024"> HUAWEI newsletter </a>
+- <a href="https://www.linkedin.com/posts/huaweilatam_culmina-la-cumbre-de-latinoam%C3%A9rica-y-el-caribe-activity-7236792364080472065-PckB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJHbuEBWKuqVwo1ZZn-EY4Z1sNv86MxTKw"> HUAWEI Linked-in post </a>

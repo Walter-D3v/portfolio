@@ -40,13 +40,17 @@ const projects = (await getCollection('work'))
 						<Pill><Icon icon="pencil-line" size="1.33em" /> Estudent</Pill>
 					</div>
 				</Hero>
+				
 
 				<img
 					alt="Walter happy"
 					width="480"
 					height="620"
 					src="/assets/portrait.jpeg"
+					class="shadow"
+					
 				/>
+				
 			</header>
 
 			<Skills />
@@ -105,6 +109,8 @@ const projects = (await getCollection('work'))
 		border-radius: 1.5rem;
 		box-shadow: var(--shadow-md);
 	}
+
+	
 
 	@media (min-width: 50em) {
 		.hero {
@@ -220,7 +226,7 @@ const projects = (await getCollection('work'))
 		border-radius: 1.5rem;
 		color: var(--gray-300);
 		background: var(--gradient-subtle);
-		box-shadow: var(--shadow-sm);
+		box-shadow: var(--shadow-sm) rgb(0 0 0 / 0.8);
 	}
 
 	@media (min-width: 50em) {
@@ -229,4 +235,5 @@ const projects = (await getCollection('work'))
 			height: 9.5rem;
 		}
 	}
+	
 </style>
