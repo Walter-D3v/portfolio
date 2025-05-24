@@ -10,8 +10,7 @@ tags:
   - web app
   - Sales Pitch
 ---
-
-## Project Background
+### Project Background
 
 > SAMSUNG Regional competition
 
@@ -23,7 +22,7 @@ Throught this program there was a competition developt among the National studen
 
 Anti Fake-News AI is a platform Awarded in second place because of its impact letting you know if a newsletter is providing fake or real information using machine learning, Artificial Inteligence, cloud computing and Big Data to proccess hundreds if not thousands of datasets in order to validate the information, you are able to know why is the new Fake or Real using a simple image, a text, or an url 
 
-## Acomplished Goals 
+### Acomplished Goals 
 
 We learned how to use AI, ML, and more python libraries to develop project with the capability of changing the way we read, we communicate and we live.
 
@@ -40,7 +39,7 @@ I also really appreciated how the program focused on teamwork and creativity —
 Thanks to Samsung and the partners for this opportunity. I feel more prepared for the future and excited to keep learning and innovating.
 
 
-#### Related to the project
+### Related to the project
 
 - <a href="https://www.itca.edu.sv/2025/04/11/itca-fue-la-sede-la-clausura-la-5a-edicion-del-samsung-innovation-campus-salvador-2025/"> ITCA NEWSLETTER </a>
 - <a href="https://github.com/repositoriosHackaton/SIC25es-Error404-SQLovers-?tab=readme-ov-file"> Github Repository </a>
